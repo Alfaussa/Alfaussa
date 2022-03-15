@@ -9,10 +9,11 @@
 
 
 
+
 ## ⏳ My latest projects:
 
 🦁 [Lion bank website](https://alfaussa.github.io/Lion-bank/)
-Technology stack and tools that were used:
+* Technology stack and tools that were used:
 * HTML5 
 * СSS3 
 * Flexbox 
