@@ -1,6 +1,6 @@
 ### Hi there, I am Alfiya 👋
 
-- 🔭 I’m junior frontend developer
+- 🔭 I’m a frontend developer
 - 🌱 I’m permanently and continiously learning and improving my skills
 - 🇸🇪 Currently in Sweden
 - 💻 Not working anywhere currently and open to job offers
