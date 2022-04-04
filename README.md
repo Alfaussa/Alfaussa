@@ -31,7 +31,7 @@
 * Working with Forms / AJAX 
 * Yandex.Maps API 
 
-💻 [Console] alfaussa.github.io/console-react/
+💻 [Console] (https://alfaussa.github.io/Console-React/)
 * Technology stack and tools that were used:
 * React
 * styled-components
