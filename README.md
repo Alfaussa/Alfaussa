@@ -5,7 +5,7 @@
 - 🇸🇪 Currently in Sweden
 - 💻 Not working anywhere currently and open to job offers
 - ✉️ You can shoot me an email at al.yausheva@gmail.com or write me on [LinkedIn](https://www.linkedin.com/in/alfiya-yausheva-44577758/)
-- 💼 [CV](https://github.com/Alfaussa/test-repo/blob/42e73eedfafbb665ea721699e9a47966b94ce3c7/Alfiya_CV.pdf)
+- 💼 [CV](https://github.com/Alfaussa/test-repo/blob/main/Alfiya_CV.pdf)
 
 
 
