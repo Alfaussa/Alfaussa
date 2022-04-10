@@ -34,7 +34,7 @@
 👷 [3D GAME](https://alfaussa.github.io/game/)
 * Technology stack and tools that were used:
 * THREE.JS
-Controls:
+* Controls:
 a - ⬅️ w - ⬆️ z - ⬇️ s - ➡️
 c - ↗️ x - ↘️ q - ↙️ t - 🔁
 
