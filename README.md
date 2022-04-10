@@ -10,7 +10,7 @@
 
 
 
-## ⏳ My latest projects:
+##  My latest projects:
 
 🦁 [Lion bank website](https://alfaussa.github.io/Lion-bank/)
 * Technology stack and tools that were used:
@@ -31,12 +31,12 @@
 * Working with Forms / AJAX 
 * Yandex.Maps API 
 
-👷 Game [3D GAME](https://alfaussa.github.io/game/)
+👷 [3D GAME](https://alfaussa.github.io/game/)
 * Technology stack and tools that were used:
 * THREE.JS
 Controls:
-A - ⬅️ W - ⬆️ Z - ⬇️ S - ➡️
-C - ↗️ X - ↘️ Q - ↙️ T - 🔁
+a - ⬅️ w - ⬆️ z - ⬇️ s - ➡️
+c - ↗️ x - ↘️ q - ↙️ t - 🔁
 
 💻 [Console](https://alfaussa.github.io/Console-React/)
 * Technology stack and tools that were used:
