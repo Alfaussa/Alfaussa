@@ -12,12 +12,12 @@ I enjoy turning designs into high‑quality code and continuously improving my s
 
 ## Featured Projects
 
-[ai-assistant](ai-assistant-cyan-theta.vercel.app)
+### [AI-assistant](ai-assistant-cyan-theta.vercel.app)
 * Web application for calculating boiler power and interacting with an AI assistant for heating guidance.
 * Tech: React / Next.js, AI, Vercel
 * Focus:  AI integration, real-world calculations, clean UI, deployment
 
-### Console React [Console](https://alfaussa.github.io/Console-React/)
+### [Console React](https://alfaussa.github.io/Console-React/)
 * Frontend interface built with React components.
 * Tech: React, CSS
 * Focus: Component structure, reusable UI
@@ -29,7 +29,7 @@ I enjoy turning designs into high‑quality code and continuously improving my s
 * Focus: Layout, responsiveness, clean structure
 
 
-### [3D GAME](https://alfaussa.github.io/game/)
+### [3D game](https://alfaussa.github.io/game/)
 * Technology stack and tools that were used:
 * THREE.JS
 * Controls:
