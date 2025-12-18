@@ -12,7 +12,7 @@ I enjoy turning designs into high‑quality code and continuously improving my s
 
 ## Featured Projects
 
-### [AI-assistant](ai-assistant-cyan-theta.vercel.app)
+### [AI-assistant](https://ai-assistant-cyan-theta.vercel.app/)
 * Web application for calculating boiler power and interacting with an AI assistant for heating guidance.
 * Tech: React / Next.js, AI, Vercel
 * Focus:  AI integration, real-world calculations, clean UI, deployment
