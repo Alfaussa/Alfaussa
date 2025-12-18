@@ -50,5 +50,5 @@ c - ↗️ x - ↘️ q - ↙️ t - 🔁
 
 ## Contact Me
 
-📧 Email: aluskaner@gmail.com
+📧 Email: aluskaner@gmail.com            
 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/alfiya-yausheva-44577758/)
